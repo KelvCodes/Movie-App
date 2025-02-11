@@ -30,7 +30,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 
 ## 🚀 How to Use 
 1.  **Open the App** – Load `index.html` in your browser. 🌐 
-2. **Search for a Song** – Enter a m title or artist in the search bar. 🔍
+2. **Search for a Song** – Enter a mo title or artist in the search bar. 🔍
 3. **Play Music** – Click the play button to enjoy seamless streaming! ▶️🎶
 4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
 5. **Enjoy** – Listen, vibe, and share your favorite tunes! 🎧🎵 
