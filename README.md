@@ -6,7 +6,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 ---
 
 ## 🌟 Features  
--  **🎵 Fetch Songs via API** – Stream any song dynamically using an API. 
+- **🔥 Discover Popular Movies** – Fetches the latest trending films from TMDb.
 - **🎛️ Intuitive Controls** – Play, pause, skip, and adjust volume easily. 
 - **🎨 Sleek UI** – A stylish and responsive design.  
 - **📱 Mobile Friendly** – Works smoothly on all devices.
