@@ -7,7 +7,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 
 ## 🌟 Features  
 - **🔥 Discover Popular Movies** – Fetches the latest trending films from TMDb.
-- **🎛️ Intuitive Controls** – Play, pause, skip, and adjust volume easily. 
+- **🔍 Search Functionality** – Find your favorite movies instantly.  
 - **🎨 Sleek UI** – A stylish and responsive design.  
 - **📱 Mobile Friendly** – Works smoothly on all devices.
 - **⚡ Instant Load** – Fast and optimized for a seamless experience. 
