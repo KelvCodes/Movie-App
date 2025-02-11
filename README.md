@@ -1,5 +1,5 @@
 
-# 🎶 Music Player 🎧
+# 🎬 Movie Explorer 🍿 
 
   A **modern and interactive** music player built with **HTML, CSS, and JavaScript**, utilizing an API to fetch and play songs dynamically. Enjoy seamless music playback with a sleek, responsive interface! 🚀  
 ![Music Player](https://i.imgur.com/I3Wdp5S.png) 
