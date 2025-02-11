@@ -1,8 +1,7 @@
 
 # 🎬 Movie Explorer 🍿 
 
-  A **modern and interactive** music player built with **HTML, CSS, and JavaScript**, utilizing an API to fetch and play songs dynamically. Enjoy seamless music playback with a sleek, responsive interface! 🚀  
-![Music Player](https://i.imgur.com/I3Wdp5S.png) 
+A **modern and interactive** movie discovery app built with **HTML, CSS, and JavaScript**, leveraging **The Movie Database (TMDb) API** to fetch and display popular movies dynamically. Discover trending films, search for your favorites, and enjoy a sleek, responsive interface! 🚀 
 
 ---
 
