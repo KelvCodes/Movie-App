@@ -10,7 +10,8 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 - **🔍 Search Functionality** – Find your favorite movies instantly.  
 - **🎭 Dynamic Ratings** – Color-coded ratings for easy movie selection.
 - **📱 Mobile Friendly** – Works smoothly on all devices.
-- **⚡ Instant Load** – Fast and optimized for a seamless experience. 
+- **⚡ Instant Load** – Fast and optimized for a seamless experience.
+- **🎨 Sleek UI & Responsive Design** – Works across all devices.
 
       
 
