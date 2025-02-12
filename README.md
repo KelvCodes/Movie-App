@@ -42,7 +42,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/yourusername/music-playe.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
