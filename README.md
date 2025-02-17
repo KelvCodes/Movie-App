@@ -2,7 +2,7 @@
 # 🎬 Movie Explorer 🍿 
 
 A **modern and interactive** movie discovery app built with **HTML, CSS, and JavaScript**, leveraging **The Movie Database (TMDb) API** to fetch and display popular movies dynamically. Discover trending films, search for your favorites, and enjoy a sleek, responsive interface! 🚀 
-![Movie Explorer](https://i.imgur.com/I3Wdp5S.png) 
+
 ---
 
 ## 🌟 Features  
