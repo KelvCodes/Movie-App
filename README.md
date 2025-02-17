@@ -14,7 +14,9 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 - **🎨 Sleek UI & Responsive Design** – Works across all devices.
 
 ---      
+## 🎬 Live Demo 
 
+🔗 **[Try It Now](https://ai-powered-lost-and-found.netlify.app/)**  
 ---
 
 ## ⚙ 🛠 Tech Stack
