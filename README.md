@@ -13,7 +13,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 - **⚡ Instant Load** – Fast and optimized for a seamless experience.
 - **🎨 Sleek UI & Responsive Design** – Works across all devices.
 
-      
+---      
 
 ---
 
