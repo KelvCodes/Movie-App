@@ -54,7 +54,7 @@ A **modern and interactive** movie discovery app built with **HTML, CSS, and Jav
 
 ## 🤝 Contributing  
 
-Want to make this movie expeven better? We’d love your help! 💡  
+Want to make this movie explo even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
